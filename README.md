@@ -1,2 +1,4 @@
-# ScktSrvr-SingleClientToServer
-Single client/server chat using Sockets from https://www.youtube.com/playlist?list=PLAC179D21AF94D28F
+﻿# ScktSrvr-SingleClientToServer
+Simple console singleClient→server chat using Sockets. 
+
+From [this tutorial](https://www.youtube.com/playlist?list=PLAC179D21AF94D28F).
